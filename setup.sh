@@ -23,34 +23,34 @@
       sudo flatpak remote-add --if-not-exists fedora oci+https://registry.fedoraproject.org
 
   sudo dnf -y check-update; sudo dnf -y upgrade
-#Packages and git repos
-  #TODO: Install:
-    #! - rtl8822bu wireless driver (maybe not needed)
-    # - node.js
-    # - dotnet sdk
-    # - nuget
-    # - python3
-    # - gcc
-    # - g++
-    # - code
-    # - git (just to be sure)
-    # - unityhub
-    # - docker
-    # - fira code
-    # - MesloLGS NF
-    # - audacity
-    # - krita
-    # - vlc
-    # - discord
-    # - spotify
-    # - chrome
-    # - tilix
-    # - zsh
-    # - zsh-syntax-highlighting
-    # - zsh-autosuggestions
-    # - vim
-    # - irssi
-    # - crontab
-  #TODO: Remove:
-    # - firefox
-    #TODO: Add more apps to be removed (if needed)
+  #Packages and git repos
+    #TODO: Install:
+      #! - rtl8822bu wireless driver (maybe not needed)
+      # - node.js
+      # - dotnet sdk
+      # - nuget
+      # - python3
+      # - gcc
+      # - g++
+      # - code
+      # - git (just to be sure)
+      # - unityhub
+      # - docker
+      # - fira code
+      # - MesloLGS NF
+      # - audacity
+      # - krita
+      # - vlc
+      # - discord
+      # - spotify
+      # - chrome
+      # - tilix
+      # - zsh
+      # - zsh-syntax-highlighting
+      # - zsh-autosuggestions
+      # - vim
+      # - irssi
+      # - crontab
+    #TODO: Remove:
+      # - firefox
+      #TODO: Add more apps to be removed (if needed)
