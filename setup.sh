@@ -22,8 +22,8 @@
     #Fedora repo to be safe
       sudo flatpak remote-add --if-not-exists fedora oci+https://registry.fedoraproject.org
 
-  sudo dnf -y check-update; sudo dnf -y upgrade
   #Packages and git repos
+    sudo dnf -y check-update; sudo dnf -y upgrade
     #TODO: Install:
       #! - rtl8822bu wireless driver (maybe not needed)
       # - node.js
@@ -50,7 +50,7 @@
       # - zsh-autosuggestions
       # - vim
       # - irssi
-      # - crontab
+      # - crontab (I had to install it on Fedora 35 for some reason)
     #TODO: Remove:
       # - firefox
       #TODO: Add more apps to be removed (if needed)
