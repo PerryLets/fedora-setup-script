@@ -49,4 +49,4 @@
       # - irssi
       # - crontab (I had to install it on Fedora 35 for some reason)
     #TODO: Remove:
-      #TODO: Add more apps to be removed (if needed)
+      #TODO: Add apps
